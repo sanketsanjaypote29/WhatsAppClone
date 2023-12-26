@@ -6,7 +6,7 @@ const nextConfig = {
     NEXT_PUBLIC_ZEGO_SERVER_ID: "8c6d441e40039f91a91f8e6bfaddbd73"
   },
   images: {
-    domains: ["whats-app-clone-29.vercel.app"],
+    domains: ["whats-app-clone-ivqorse7y-sanketsanjaypote29s-projects.vercel.app"],
   },
 };
 
