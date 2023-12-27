@@ -4,7 +4,7 @@ import {
   generateToken,
   getAllUsers,
   onBoardUser,
-} from "../controllers/AuthController.js";
+} from "./controllers/AuthController.js";
 
 const router = Router();
 router.post("/check-user", checkUser);
