@@ -1,5 +1,5 @@
-import getPrismaInstance from "../utils/PrismaClient.js";
-import { generateToken04 } from "../utils/TokenGenerator.js";
+import getPrismaInstance from "./utils/PrismaClient.js";
+import { generateToken04 } from "./utils/TokenGenerator.js";
 
 export const checkUser = async (req, res, next) => {
   try {
