@@ -5,7 +5,7 @@ import {
   addMessage,
   getInitialContactswithMessages,
   getMessages,
-} from "../../controllers/MessageController.js";
+} from "../controllers/MessageController.js";
 import multer from "multer";
 
 const router = Router();
