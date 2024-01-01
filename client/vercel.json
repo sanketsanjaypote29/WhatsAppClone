@@ -3,7 +3,7 @@
     {
       "src": "/api/.*",
       "headers": {
-        "Access-Control-Allow-Origin": "https://whats-app-clone-29server-dt6gkrcjv-sanketsanjaypote29s-projects.vercel.app/",
+        "Access-Control-Allow-Origin": "https://whats-app-clone-29server-9c195d86l-sanketsanjaypote29s-projects.vercel.app/",
         "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE",
         "Access-Control-Allow-Headers": "Content-Type"
       }
