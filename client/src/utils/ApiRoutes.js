@@ -1,5 +1,5 @@
 export const HOST = process.env.NODE_ENV === 'production'
-  ? 'https://whats-app-clone-29server-9c195d86l-sanketsanjaypote29s-projects.vercel.app/'
+  ? 'https://whats-app-clone-29server-9c195d86l-sanketsanjaypote29s-projects.vercel.app'
   : 'http://localhost:3005';
 
 const AUTH_ROUTE = `${HOST}/api/auth`;
